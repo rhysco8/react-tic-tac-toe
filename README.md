@@ -1,3 +1,7 @@
+# React Tic-tac-toe
+
+I'm teaching myself React by following their tutorial for building a tic-tac-toe game.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
