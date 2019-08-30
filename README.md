@@ -1,6 +1,8 @@
 # React Tic-tac-toe
 
-I'm teaching myself React by following their tutorial for building a tic-tac-toe game.
+I'm teaching myself React by following their tutorial for building a tic-tac-toe game. I've learnt from previous projects using new (to me) languages is that it's best to get to grips with it in a simple project first before then tackling a larger project.
+
+This tutorial can be found [here](https://reactjs.org/tutorial/tutorial.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
