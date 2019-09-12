@@ -1,6 +1,4 @@
-import React from 'react';
-
-function calculateWinner(squares) {
+export default function calculateWinner(squares) {
   const lines = [
     [0, 1, 2],
     [3, 4, 5],
@@ -19,5 +17,3 @@ function calculateWinner(squares) {
   }
   return null;
 }
-
-export default calculateWinner;
